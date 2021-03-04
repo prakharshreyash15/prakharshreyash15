@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! This ia Prakhar Shreyash👋
+- 🌱 I’m currently learning Python, C & HTML.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about open source & tech related stuffs.
+- 📫 How to reach me: 
+     - [**Linkedin:** *Prakhar          Shreyash*](https://www.linkedin.com/in/prakharshreyash/)   
+     - [**Twitter:** *@its_prakhar_15*](https://twitter.com/its_prakhar_15) 
+     - [**Facebook:** *Prakhar       Shreyash*](https://www.facebook.com/profile.php?id=100009478729107)  
+     - [**Email:**       *shreyashprakhar1502@gmail.com*](shreyashprakhar1502@gmail.com)
+- 😄 Pronouns: He/him/his
 
-<!--
-**prakharshreyash15/prakharshreyash15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=prakharshreyash15">;
