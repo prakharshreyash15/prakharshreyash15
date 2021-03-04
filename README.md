@@ -1,4 +1,4 @@
-### Hi! This ia Prakhar Shreyash👋
+### Hi! This is Prakhar Shreyash👋
 - 🌱 I’m currently learning Python, C & HTML.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about open source & tech related stuffs.
