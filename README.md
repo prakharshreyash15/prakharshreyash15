@@ -9,5 +9,5 @@
      - **Email:** *shreyashprakhar1502@gmail.com*
 - 😄 Pronouns: He/him/his
 
-# Stats
+# Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=prakharshreyash15&show_icons=true&theme=radical">
