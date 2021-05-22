@@ -11,5 +11,16 @@
 
 # Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=prakharshreyash15&show_icons=true&theme=radical">
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharshreyash15&" alt="prakharshreyash15" /></p>
+
+# Github Metrics:
+
+<img align="center" src="https://metrics.lecoq.io/prakharshreyash15">
+
+# Trophies:
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=prakharshreyash15">
+
+# Profile Views:
+
+<img align="center" src="https://gpvc.arturio.dev/prakharshreyash15">
