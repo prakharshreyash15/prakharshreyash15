@@ -25,6 +25,6 @@
 
 <img align="center" src="https://gpvc.arturio.dev/prakharshreyash15">
 
-# My Contributions Graph
+# My Contribution Graph
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=prakharshreyash15&theme=react-dark&hide_border=true&area=true">
